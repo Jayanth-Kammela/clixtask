@@ -1,0 +1,22 @@
+.input {
+    background: #FFF;
+    height: 48px !important;
+    color: rgba(110, 120, 138, 0.60);
+    border-radius: 4px;
+    outline: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 18px !important;
+}
+
+.formContainer {
+    border-radius: 5px;
+    box-shadow: 20px 20px 60px #a8a8a8,
+        -20px -20px 60px #ffffff;
+    padding: 36px 18px;
+}
